@@ -18,7 +18,5 @@
  <a href="https://discord.com/users/734134493039951964" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href"https://github.com/Lig3ro" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
-
- ![Snake animation](https://github.com/Lig3ro/Lig3ro/blob/output/github-contribution-grid-snake.svg)
  
 </div>
